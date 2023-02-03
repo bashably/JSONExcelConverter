@@ -1,0 +1,153 @@
+[
+	{
+		"geoName": "Denmark",
+		"domainNo": 1,
+		"geoCode": "DK",
+		"geoCodeId": "045000000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Copenhagen",
+		"domainNo": 1,
+		"geoStateId": "CP",
+		"geoCode": "CP",
+		"geoCodeId": "045001000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Roskilde amt",
+		"domainNo": 1,
+		"geoStateId": "RS",
+		"geoCode": "RS",
+		"geoCodeId": "045002000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "S?nderjylland amt",
+		"domainNo": 1,
+		"geoStateId": "SD",
+		"geoCode": "SD",
+		"geoCodeId": "045003000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Storstr?m amt",
+		"domainNo": 1,
+		"geoStateId": "ST",
+		"geoCode": "ST",
+		"geoCodeId": "045004000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Vejle amt",
+		"domainNo": 1,
+		"geoStateId": "VJ",
+		"geoCode": "VJ",
+		"geoCodeId": "045005000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Vestsj?lland amt",
+		"domainNo": 1,
+		"geoStateId": "VL",
+		"geoCode": "VL",
+		"geoCodeId": "045006000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Frederiksberg",
+		"domainNo": 1,
+		"geoStateId": "FR",
+		"geoCode": "FR",
+		"geoCodeId": "045007000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Viborg amt",
+		"domainNo": 1,
+		"geoStateId": "VB",
+		"geoCode": "VB",
+		"geoCodeId": "045008000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Gr?nlands amt",
+		"domainNo": 1,
+		"geoStateId": "GL",
+		"geoCode": "GL",
+		"geoCodeId": "045009000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "?rhus amt",
+		"domainNo": 1,
+		"geoStateId": "RH",
+		"geoCode": "RH",
+		"geoCodeId": "045010000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Bornholm amt",
+		"domainNo": 1,
+		"geoStateId": "BR",
+		"geoCode": "BR",
+		"geoCodeId": "045011000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Frederiksborg amt",
+		"domainNo": 1,
+		"geoStateId": "FR",
+		"geoCode": "FR",
+		"geoCodeId": "045012000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Fyn amt",
+		"domainNo": 1,
+		"geoStateId": "FY",
+		"geoCode": "FY",
+		"geoCodeId": "045013000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "K?benhavn amt",
+		"domainNo": 1,
+		"geoStateId": "KB",
+		"geoCode": "KB",
+		"geoCodeId": "045014000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Nordjylland amt",
+		"domainNo": 1,
+		"geoStateId": "NR",
+		"geoCode": "NR",
+		"geoCodeId": "045015000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Ribe amt",
+		"domainNo": 1,
+		"geoStateId": "RB",
+		"geoCode": "RB",
+		"geoCodeId": "045016000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Ringk?bing amt",
+		"domainNo": 1,
+		"geoStateId": "RN",
+		"geoCode": "RN",
+		"geoCodeId": "045017000000",
+		"geoCountryId": "DK"
+	},
+	{
+		"geoName": "Denmark",
+		"domainNo": 1,
+		"geoStateId": "DK",
+		"geoCode": "DK",
+		"geoCodeId": "045018000000",
+		"geoCountryId": "DK"
+	}
+]

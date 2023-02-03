@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "Czech Republic",
+		"domainNo": 1,
+		"geoCode": "CZ",
+		"geoCodeId": "420000000000",
+		"geoCountryId": "CZ"
+	},
+	{
+		"geoName": "Czech Republic",
+		"domainNo": 1,
+		"geoStateId": "CZ",
+		"geoCode": "CZ",
+		"geoCodeId": "420001000000",
+		"geoCountryId": "CZ"
+	}
+]

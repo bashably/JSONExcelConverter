@@ -1,0 +1,170 @@
+[
+	{
+		"geoName": "Norway",
+		"domainNo": "1",
+		"geoStateId": "",
+		"geoCode": "NO",
+		"geoCodeId": "047000000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "?stfold Fylke",
+		"domainNo": "1",
+		"geoStateId": "SF",
+		"geoCode": "SF",
+		"geoCodeId": "047001000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Vest-Agder Fylke",
+		"domainNo": "1",
+		"geoStateId": "VA",
+		"geoCode": "VA",
+		"geoCodeId": "047002000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Rogaland Fylke",
+		"domainNo": "1",
+		"geoStateId": "RO",
+		"geoCode": "RO",
+		"geoCodeId": "047003000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Hordaland Fylke",
+		"domainNo": "1",
+		"geoStateId": "HO",
+		"geoCode": "HO",
+		"geoCodeId": "047004000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Sogn og Fjordane F.",
+		"domainNo": "1",
+		"geoStateId": "SO",
+		"geoCode": "SO",
+		"geoCodeId": "047005000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "M?re og Romsdal F.",
+		"domainNo": "1",
+		"geoStateId": "MR",
+		"geoCode": "MR",
+		"geoCodeId": "047006000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "S?r-Tr?ndelag Fylke",
+		"domainNo": "1",
+		"geoStateId": "ST",
+		"geoCode": "ST",
+		"geoCodeId": "047007000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Nord-Tr?ndelag Fylke",
+		"domainNo": "1",
+		"geoStateId": "NF",
+		"geoCode": "NF",
+		"geoCodeId": "047008000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Nordland Fylke",
+		"domainNo": "1",
+		"geoStateId": "NR",
+		"geoCode": "NR",
+		"geoCodeId": "047009000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Troms Fylke",
+		"domainNo": "1",
+		"geoStateId": "TR",
+		"geoCode": "TR",
+		"geoCodeId": "047010000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Akershus Fylke",
+		"domainNo": "1",
+		"geoStateId": "AK",
+		"geoCode": "AK",
+		"geoCodeId": "047011000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Finnmark Fylke",
+		"domainNo": "1",
+		"geoStateId": "FI",
+		"geoCode": "FI",
+		"geoCodeId": "047012000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Oslo",
+		"domainNo": "1",
+		"geoStateId": "OS",
+		"geoCode": "OS",
+		"geoCodeId": "047013000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Hedmark Fylke",
+		"domainNo": "1",
+		"geoStateId": "HE",
+		"geoCode": "HE",
+		"geoCodeId": "047014000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Oppland Fylke",
+		"domainNo": "1",
+		"geoStateId": "OP",
+		"geoCode": "OP",
+		"geoCodeId": "047015000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Buskerud Fylke",
+		"domainNo": "1",
+		"geoStateId": "BU",
+		"geoCode": "BU",
+		"geoCodeId": "047016000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Vestfold Fylke",
+		"domainNo": "1",
+		"geoStateId": "VF",
+		"geoCode": "VF",
+		"geoCodeId": "047017000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Telemark Fylke",
+		"domainNo": "1",
+		"geoStateId": "TE",
+		"geoCode": "TE",
+		"geoCodeId": "047018000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Aust-Agder Fylke",
+		"domainNo": "1",
+		"geoStateId": "AU",
+		"geoCode": "AU",
+		"geoCodeId": "047019000000",
+		"geoCountryId": "NO"
+	},
+	{
+		"geoName": "Norway",
+		"domainNo": "1",
+		"geoStateId": "NO",
+		"geoCode": "NO",
+		"geoCodeId": "047020000000",
+		"geoCountryId": "NO"
+	}
+]

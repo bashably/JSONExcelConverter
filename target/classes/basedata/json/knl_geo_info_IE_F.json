@@ -1,0 +1,209 @@
+[
+	{
+		"geoName": "Ireland_Franchise",
+		"domainNo": 1,
+		"geoCode": "IE_F",
+		"geoCodeId": "502000000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Carlow",
+		"domainNo": 1,
+		"geoStateId": "CAR_F",
+		"geoCode": "CAR_F",
+		"geoCodeId": "502001000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Cavan",
+		"domainNo": 1,
+		"geoStateId": "CAV_F",
+		"geoCode": "CAV_F",
+		"geoCodeId": "502002000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Clare",
+		"domainNo": 1,
+		"geoStateId": "CLA_F",
+		"geoCode": "CLA_F",
+		"geoCodeId": "502003000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Cork",
+		"domainNo": 1,
+		"geoStateId": "COR_F",
+		"geoCode": "COR_F",
+		"geoCodeId": "502004000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Donegal",
+		"domainNo": 1,
+		"geoStateId": "DON_F",
+		"geoCode": "DON_F",
+		"geoCodeId": "502005000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Dublin",
+		"domainNo": 1,
+		"geoStateId": "DUB_F",
+		"geoCode": "DUB_F",
+		"geoCodeId": "502006000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Galway",
+		"domainNo": 1,
+		"geoStateId": "GAL_F",
+		"geoCode": "GAL_F",
+		"geoCodeId": "502007000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Kildare",
+		"domainNo": 1,
+		"geoStateId": "KLD_F",
+		"geoCode": "KLD_F",
+		"geoCodeId": "502008000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Kilkenny",
+		"domainNo": 1,
+		"geoStateId": "KLK_F",
+		"geoCode": "KLK_F",
+		"geoCodeId": "502009000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Laois",
+		"domainNo": 1,
+		"geoStateId": "LAO_F",
+		"geoCode": "LAO_F",
+		"geoCodeId": "502010000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Leitrim",
+		"domainNo": 1,
+		"geoStateId": "LEI_F",
+		"geoCode": "LEI_F",
+		"geoCodeId": "502011000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Limerick",
+		"domainNo": 1,
+		"geoStateId": "LIM_F",
+		"geoCode": "LIM_F",
+		"geoCodeId": "502012000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Longford",
+		"domainNo": 1,
+		"geoStateId": "LON_F",
+		"geoCode": "LON_F",
+		"geoCodeId": "502013000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Louth",
+		"domainNo": 1,
+		"geoStateId": "LOU_F",
+		"geoCode": "LOU_F",
+		"geoCodeId": "502014000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Mayo",
+		"domainNo": 1,
+		"geoStateId": "MAY_F",
+		"geoCode": "MAY_F",
+		"geoCodeId": "502015000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Meath",
+		"domainNo": 1,
+		"geoStateId": "MEA_F",
+		"geoCode": "MEA_F",
+		"geoCodeId": "502016000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Monaghan",
+		"domainNo": 1,
+		"geoStateId": "MON_F",
+		"geoCode": "MON_F",
+		"geoCodeId": "502017000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Offaly",
+		"domainNo": 1,
+		"geoStateId": "OFF_F",
+		"geoCode": "OFF_F",
+		"geoCodeId": "502018000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Roscommon",
+		"domainNo": 1,
+		"geoStateId": "ROS_F",
+		"geoCode": "ROS_F",
+		"geoCodeId": "502019000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Sligo",
+		"domainNo": 1,
+		"geoStateId": "SLI_F",
+		"geoCode": "SLI_F",
+		"geoCodeId": "502020000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Tipperary",
+		"domainNo": 1,
+		"geoStateId": "TIP_F",
+		"geoCode": "TIP_F",
+		"geoCodeId": "502021000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Waterford",
+		"domainNo": 1,
+		"geoStateId": "WAT_F",
+		"geoCode": "WAT_F",
+		"geoCodeId": "502022000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Westmeath",
+		"domainNo": 1,
+		"geoStateId": "WES_F",
+		"geoCode": "WES_F",
+		"geoCodeId": "502023000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Wexford",
+		"domainNo": 1,
+		"geoStateId": "WEX_F",
+		"geoCode": "WEX_F",
+		"geoCodeId": "502024000000",
+		"geoCountryId": "IE_F"
+	},
+	{
+		"geoName": "Wicklow",
+		"domainNo": 1,
+		"geoStateId": "WIC_F",
+		"geoCode": "WIC_F",
+		"geoCodeId": "502025000000",
+		"geoCountryId": "IE_F"
+	}
+]

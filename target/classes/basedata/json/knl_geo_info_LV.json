@@ -1,0 +1,65 @@
+[
+	{
+		"geoName": "Latvia",
+		"domainNo": 1,
+		"geoCode": "LV",
+		"geoCodeId": "371000000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Daugavpils",
+		"domainNo": 1,
+		"geoStateId": "DG",
+		"geoCode": "DG",
+		"geoCodeId": "371001000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Jelgava",
+		"domainNo": 1,
+		"geoStateId": "JG",
+		"geoCode": "JG",
+		"geoCodeId": "371002000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Latgale",
+		"domainNo": 1,
+		"geoStateId": "LG",
+		"geoCode": "LG",
+		"geoCodeId": "371003000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Liepaja",
+		"domainNo": 1,
+		"geoStateId": "LP",
+		"geoCode": "LP",
+		"geoCodeId": "371004000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Latvia",
+		"domainNo": 1,
+		"geoStateId": "LV",
+		"geoCode": "LV",
+		"geoCodeId": "371005000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Riga",
+		"domainNo": 1,
+		"geoStateId": "RG",
+		"geoCode": "RG",
+		"geoCodeId": "371006000000",
+		"geoCountryId": "LV"
+	},
+	{
+		"geoName": "Ventspils",
+		"domainNo": 1,
+		"geoStateId": "VP",
+		"geoCode": "VP",
+		"geoCodeId": "371007000000",
+		"geoCountryId": "LV"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "RepublicofIreland",
+		"domainNo": 1,
+		"geoCode": "IRL",
+		"geoCodeId": "511000000000",
+		"geoCountryId": "IRL"
+	},
+	{
+		"geoName": "Republic of Ireland",
+		"domainNo": 1,
+		"geoStateId": "IRL",
+		"geoCode": "IRL",
+		"geoCodeId": "511001000000",
+		"geoCountryId": "IRL"
+	}
+]

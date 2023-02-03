@@ -1,0 +1,1361 @@
+[
+	{
+		"geoName": "United Kingdom",
+		"domainNo": 1,
+		"geoCode": "UK",
+		"geoCodeId": "508000000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Aberdeenshire",
+		"domainNo": 1,
+		"geoStateId": "ABD",
+		"geoCode": "ABD",
+		"geoCodeId": "508001000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Anglesey",
+		"domainNo": 1,
+		"geoStateId": "AGY",
+		"geoCode": "AGY",
+		"geoCodeId": "508002000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Alderney",
+		"domainNo": 1,
+		"geoStateId": "ALD",
+		"geoCode": "ALD",
+		"geoCodeId": "508003000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Allcountries",
+		"domainNo": 1,
+		"geoStateId": "ALL",
+		"geoCode": "ALL",
+		"geoCodeId": "508004000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Angus",
+		"domainNo": 1,
+		"geoStateId": "ANS",
+		"geoCode": "ANS",
+		"geoCodeId": "508005000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Antrim",
+		"domainNo": 1,
+		"geoStateId": "ANT",
+		"geoCode": "ANT",
+		"geoCodeId": "508006000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Argyllshire",
+		"domainNo": 1,
+		"geoStateId": "ARL",
+		"geoCode": "ARL",
+		"geoCodeId": "508007000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Armagh",
+		"domainNo": 1,
+		"geoStateId": "ARM",
+		"geoCode": "ARM",
+		"geoCodeId": "508008000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Avon",
+		"domainNo": 1,
+		"geoStateId": "AVN",
+		"geoCode": "AVN",
+		"geoCodeId": "508009000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Ayrshire",
+		"domainNo": 1,
+		"geoStateId": "AYR",
+		"geoCode": "AYR",
+		"geoCodeId": "508010000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Banffshire",
+		"domainNo": 1,
+		"geoStateId": "BAN",
+		"geoCode": "BAN",
+		"geoCodeId": "508011000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Bedford",
+		"domainNo": 1,
+		"geoStateId": "BDF",
+		"geoCode": "BDF",
+		"geoCodeId": "508012000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Berwickshire",
+		"domainNo": 1,
+		"geoStateId": "BEW",
+		"geoCode": "BEW",
+		"geoCodeId": "508013000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Buckinghamshire",
+		"domainNo": 1,
+		"geoStateId": "BKM",
+		"geoCode": "BKM",
+		"geoCodeId": "508014000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Borders",
+		"domainNo": 1,
+		"geoStateId": "BOR",
+		"geoCode": "BOR",
+		"geoCodeId": "508015000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Brecknockshire",
+		"domainNo": 1,
+		"geoStateId": "BRE",
+		"geoCode": "BRE",
+		"geoCodeId": "508016000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Berkshire",
+		"domainNo": 1,
+		"geoStateId": "BRK",
+		"geoCode": "BRK",
+		"geoCodeId": "508017000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Bute(Buteshire)",
+		"domainNo": 1,
+		"geoStateId": "BUT",
+		"geoCode": "BUT",
+		"geoCodeId": "508018000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Caernarfonshire",
+		"domainNo": 1,
+		"geoStateId": "CAE",
+		"geoCode": "CAE",
+		"geoCodeId": "508019000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Caithness",
+		"domainNo": 1,
+		"geoStateId": "CAI",
+		"geoCode": "CAI",
+		"geoCodeId": "508020000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cambridgeshire",
+		"domainNo": 1,
+		"geoStateId": "CAM",
+		"geoCode": "CAM",
+		"geoCodeId": "508021000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Carlow",
+		"domainNo": 1,
+		"geoStateId": "CAR",
+		"geoCode": "CAR",
+		"geoCodeId": "508022000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cavan",
+		"domainNo": 1,
+		"geoStateId": "CAV",
+		"geoCode": "CAV",
+		"geoCodeId": "508023000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Central",
+		"domainNo": 1,
+		"geoStateId": "CEN",
+		"geoCode": "CEN",
+		"geoCodeId": "508024000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cardiganshire",
+		"domainNo": 1,
+		"geoStateId": "CGN",
+		"geoCode": "CGN",
+		"geoCodeId": "508025000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "ChannelIslands",
+		"domainNo": 1,
+		"geoStateId": "CHI",
+		"geoCode": "CHI",
+		"geoCodeId": "508026000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cheshire",
+		"domainNo": 1,
+		"geoStateId": "CHS",
+		"geoCode": "CHS",
+		"geoCodeId": "508027000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Clare",
+		"domainNo": 1,
+		"geoStateId": "CLA",
+		"geoCode": "CLA",
+		"geoCodeId": "508028000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Clackmannanshire",
+		"domainNo": 1,
+		"geoStateId": "CLK",
+		"geoCode": "CLK",
+		"geoCodeId": "508029000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cleveland",
+		"domainNo": 1,
+		"geoStateId": "CLV",
+		"geoCode": "CLV",
+		"geoCodeId": "508030000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cumbria",
+		"domainNo": 1,
+		"geoStateId": "CMA",
+		"geoCode": "CMA",
+		"geoCodeId": "508031000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Carmarthenshire",
+		"domainNo": 1,
+		"geoStateId": "CMN",
+		"geoCode": "CMN",
+		"geoCodeId": "508032000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cornwall",
+		"domainNo": 1,
+		"geoStateId": "CON",
+		"geoCode": "CON",
+		"geoCodeId": "508033000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cork",
+		"domainNo": 1,
+		"geoStateId": "COR",
+		"geoCode": "COR",
+		"geoCodeId": "508034000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cornwall",
+		"domainNo": 1,
+		"geoStateId": "COW",
+		"geoCode": "COW",
+		"geoCodeId": "508035000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Cumberland",
+		"domainNo": 1,
+		"geoStateId": "CUL",
+		"geoCode": "CUL",
+		"geoCodeId": "508036000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Clwyd",
+		"domainNo": 1,
+		"geoStateId": "CWD",
+		"geoCode": "CWD",
+		"geoCodeId": "508037000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Derbyshire",
+		"domainNo": 1,
+		"geoStateId": "DBY",
+		"geoCode": "DBY",
+		"geoCodeId": "508038000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Denbighshire",
+		"domainNo": 1,
+		"geoStateId": "DEN",
+		"geoCode": "DEN",
+		"geoCodeId": "508039000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Devon",
+		"domainNo": 1,
+		"geoStateId": "DEV",
+		"geoCode": "DEV",
+		"geoCodeId": "508040000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dyfed",
+		"domainNo": 1,
+		"geoStateId": "DFD",
+		"geoCode": "DFD",
+		"geoCodeId": "508041000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dumfriesshire",
+		"domainNo": 1,
+		"geoStateId": "DFS",
+		"geoCode": "DFS",
+		"geoCodeId": "508042000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dumfriesand Galloway",
+		"domainNo": 1,
+		"geoStateId": "DGY",
+		"geoCode": "DGY",
+		"geoCodeId": "508043000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dunbartonshire",
+		"domainNo": 1,
+		"geoStateId": "DNB",
+		"geoCode": "DNB",
+		"geoCodeId": "508044000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Donegal",
+		"domainNo": 1,
+		"geoStateId": "DON",
+		"geoCode": "DON",
+		"geoCodeId": "508045000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dorset",
+		"domainNo": 1,
+		"geoStateId": "DOR",
+		"geoCode": "DOR",
+		"geoCodeId": "508046000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Down",
+		"domainNo": 1,
+		"geoStateId": "DOW",
+		"geoCode": "DOW",
+		"geoCodeId": "508047000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Dublin",
+		"domainNo": 1,
+		"geoStateId": "DUB",
+		"geoCode": "DUB",
+		"geoCodeId": "508048000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Durham",
+		"domainNo": 1,
+		"geoStateId": "DUR",
+		"geoCode": "DUR",
+		"geoCodeId": "508049000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "EastLothian(formerly Haddingtonshire)",
+		"domainNo": 1,
+		"geoStateId": "ELN",
+		"geoCode": "ELN",
+		"geoCodeId": "508050000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "England",
+		"domainNo": 1,
+		"geoStateId": "ENG",
+		"geoCode": "ENG",
+		"geoCodeId": "508051000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "YorkshireEastRiding",
+		"domainNo": 1,
+		"geoStateId": "ERY",
+		"geoCode": "ERY",
+		"geoCodeId": "508052000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Essex",
+		"domainNo": 1,
+		"geoStateId": "ESS",
+		"geoCode": "ESS",
+		"geoCodeId": "508053000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Fermanagh",
+		"domainNo": 1,
+		"geoStateId": "FER",
+		"geoCode": "FER",
+		"geoCodeId": "508054000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Fife",
+		"domainNo": 1,
+		"geoStateId": "FIF",
+		"geoCode": "FIF",
+		"geoCodeId": "508055000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Flintshire",
+		"domainNo": 1,
+		"geoStateId": "FLN",
+		"geoCode": "FLN",
+		"geoCodeId": "508056000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Galway",
+		"domainNo": 1,
+		"geoStateId": "GAL",
+		"geoCode": "GAL",
+		"geoCodeId": "508057000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Glamorgan",
+		"domainNo": 1,
+		"geoStateId": "GLA",
+		"geoCode": "GLA",
+		"geoCodeId": "508058000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Greater London",
+		"domainNo": 1,
+		"geoStateId": "GLC",
+		"geoCode": "GLC",
+		"geoCodeId": "508059000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Gloucestershire",
+		"domainNo": 1,
+		"geoStateId": "GLS",
+		"geoCode": "GLS",
+		"geoCodeId": "508060000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Grampian",
+		"domainNo": 1,
+		"geoStateId": "GMP",
+		"geoCode": "GMP",
+		"geoCodeId": "508061000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Gwent",
+		"domainNo": 1,
+		"geoStateId": "GNT",
+		"geoCode": "GNT",
+		"geoCodeId": "508062000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Guernsey",
+		"domainNo": 1,
+		"geoStateId": "GSY",
+		"geoCode": "GSY",
+		"geoCodeId": "508063000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "GreaterManchester",
+		"domainNo": 1,
+		"geoStateId": "GTM",
+		"geoCode": "GTM",
+		"geoCodeId": "508064000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Gwynedd",
+		"domainNo": 1,
+		"geoStateId": "GWN",
+		"geoCode": "GWN",
+		"geoCodeId": "508065000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Hampshire",
+		"domainNo": 1,
+		"geoStateId": "HAM",
+		"geoCode": "HAM",
+		"geoCodeId": "508066000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Herefordshire",
+		"domainNo": 1,
+		"geoStateId": "HEF",
+		"geoCode": "HEF",
+		"geoCodeId": "508067000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Highland",
+		"domainNo": 1,
+		"geoStateId": "HLD",
+		"geoCode": "HLD",
+		"geoCodeId": "508068000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Hertfordshire",
+		"domainNo": 1,
+		"geoStateId": "HRT",
+		"geoCode": "HRT",
+		"geoCodeId": "508069000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Humberside",
+		"domainNo": 1,
+		"geoStateId": "HUM",
+		"geoCode": "HUM",
+		"geoCodeId": "508070000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Huntingdonshire",
+		"domainNo": 1,
+		"geoStateId": "HUN",
+		"geoCode": "HUN",
+		"geoCodeId": "508071000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Herefordand Worcester",
+		"domainNo": 1,
+		"geoStateId": "HWR",
+		"geoCode": "HWR",
+		"geoCodeId": "508072000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Inverness-shire",
+		"domainNo": 1,
+		"geoStateId": "INV",
+		"geoCode": "INV",
+		"geoCodeId": "508073000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "IsleofMan",
+		"domainNo": 1,
+		"geoStateId": "IOM",
+		"geoCode": "IOM",
+		"geoCodeId": "508074000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "IsleofWight",
+		"domainNo": 1,
+		"geoStateId": "IOW",
+		"geoCode": "IOW",
+		"geoCodeId": "508075000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Ireland",
+		"domainNo": 1,
+		"geoStateId": "IRL",
+		"geoCode": "IRL",
+		"geoCodeId": "508076000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Jersey",
+		"domainNo": 1,
+		"geoStateId": "JSY",
+		"geoCode": "JSY",
+		"geoCodeId": "508077000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kincardineshire",
+		"domainNo": 1,
+		"geoStateId": "KCD",
+		"geoCode": "KCD",
+		"geoCodeId": "508078000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kent",
+		"domainNo": 1,
+		"geoStateId": "KEN",
+		"geoCode": "KEN",
+		"geoCodeId": "508079000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kerry",
+		"domainNo": 1,
+		"geoStateId": "KER",
+		"geoCode": "KER",
+		"geoCodeId": "508080000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kildare",
+		"domainNo": 1,
+		"geoStateId": "KID",
+		"geoCode": "KID",
+		"geoCodeId": "508081000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kilkenny",
+		"domainNo": 1,
+		"geoStateId": "KIK",
+		"geoCode": "KIK",
+		"geoCodeId": "508082000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kirkcudbrightshire",
+		"domainNo": 1,
+		"geoStateId": "KKD",
+		"geoCode": "KKD",
+		"geoCodeId": "508083000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Kinross-shire",
+		"domainNo": 1,
+		"geoStateId": "KRS",
+		"geoCode": "KRS",
+		"geoCodeId": "508084000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Lancashire",
+		"domainNo": 1,
+		"geoStateId": "LAN",
+		"geoCode": "LAN",
+		"geoCodeId": "508085000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Greater London",
+		"domainNo": 1,
+		"geoStateId": "LDN",
+		"geoCode": "LDN",
+		"geoCodeId": "508086000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Londonderry",
+		"domainNo": 1,
+		"geoStateId": "LDY",
+		"geoCode": "LDY",
+		"geoCodeId": "508087000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Leicestershire",
+		"domainNo": 1,
+		"geoStateId": "LEI",
+		"geoCode": "LEI",
+		"geoCodeId": "508088000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Leitrim",
+		"domainNo": 1,
+		"geoStateId": "LET",
+		"geoCode": "LET",
+		"geoCodeId": "508089000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Leix(formerlyQueens)",
+		"domainNo": 1,
+		"geoStateId": "LEX",
+		"geoCode": "LEX",
+		"geoCodeId": "508090000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Limerick",
+		"domainNo": 1,
+		"geoStateId": "LIM",
+		"geoCode": "LIM",
+		"geoCodeId": "508091000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Lincolnshire",
+		"domainNo": 1,
+		"geoStateId": "LIN",
+		"geoCode": "LIN",
+		"geoCodeId": "508092000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Lanarkshire",
+		"domainNo": 1,
+		"geoStateId": "LKS",
+		"geoCode": "LKS",
+		"geoCodeId": "508093000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "London(Cityonly)",
+		"domainNo": 1,
+		"geoStateId": "LND",
+		"geoCode": "LND",
+		"geoCodeId": "508094000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Longford",
+		"domainNo": 1,
+		"geoStateId": "LOG",
+		"geoCode": "LOG",
+		"geoCodeId": "508095000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Louth",
+		"domainNo": 1,
+		"geoStateId": "LOU",
+		"geoCode": "LOU",
+		"geoCodeId": "508096000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Lothian",
+		"domainNo": 1,
+		"geoStateId": "LTN",
+		"geoCode": "LTN",
+		"geoCodeId": "508097000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Mayo",
+		"domainNo": 1,
+		"geoStateId": "MAY",
+		"geoCode": "MAY",
+		"geoCodeId": "508098000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Middlesex",
+		"domainNo": 1,
+		"geoStateId": "MDX",
+		"geoCode": "MDX",
+		"geoCodeId": "508099000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Meath",
+		"domainNo": 1,
+		"geoStateId": "MEA",
+		"geoCode": "MEA",
+		"geoCodeId": "508100000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Merionethshire",
+		"domainNo": 1,
+		"geoStateId": "MER",
+		"geoCode": "MER",
+		"geoCodeId": "508101000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "MidGlamorgan",
+		"domainNo": 1,
+		"geoStateId": "MGM",
+		"geoCode": "MGM",
+		"geoCodeId": "508102000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Montgomeryshire",
+		"domainNo": 1,
+		"geoStateId": "MGY",
+		"geoCode": "MGY",
+		"geoCodeId": "508103000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Midlothian(formerly Edinburghshire)",
+		"domainNo": 1,
+		"geoStateId": "MLN",
+		"geoCode": "MLN",
+		"geoCodeId": "508104000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Monaghan",
+		"domainNo": 1,
+		"geoStateId": "MOG",
+		"geoCode": "MOG",
+		"geoCodeId": "508105000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Monmouthshire",
+		"domainNo": 1,
+		"geoStateId": "MON",
+		"geoCode": "MON",
+		"geoCodeId": "508106000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Moray(formerly Elginshire)",
+		"domainNo": 1,
+		"geoStateId": "MOR",
+		"geoCode": "MOR",
+		"geoCodeId": "508107000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Merseyside",
+		"domainNo": 1,
+		"geoStateId": "MSY",
+		"geoCode": "MSY",
+		"geoCodeId": "508108000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Nairnshire",
+		"domainNo": 1,
+		"geoStateId": "NAI",
+		"geoCode": "NAI",
+		"geoCodeId": "508109000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Northumberland",
+		"domainNo": 1,
+		"geoStateId": "NBL",
+		"geoCode": "NBL",
+		"geoCodeId": "508110000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Norfolk",
+		"domainNo": 1,
+		"geoStateId": "NFK",
+		"geoCode": "NFK",
+		"geoCodeId": "508111000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Yorkshire NorthRiding",
+		"domainNo": 1,
+		"geoStateId": "NRY",
+		"geoCode": "NRY",
+		"geoCodeId": "508112000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Northamptonshire",
+		"domainNo": 1,
+		"geoStateId": "NTH",
+		"geoCode": "NTH",
+		"geoCodeId": "508113000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Nottinghamshire",
+		"domainNo": 1,
+		"geoStateId": "NTT",
+		"geoCode": "NTT",
+		"geoCodeId": "508114000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "NorthYorkshire",
+		"domainNo": 1,
+		"geoStateId": "NYK",
+		"geoCode": "NYK",
+		"geoCodeId": "508115000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Offaly(formerly Kings)",
+		"domainNo": 1,
+		"geoStateId": "OFF",
+		"geoCode": "OFF",
+		"geoCodeId": "508116000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Orkney",
+		"domainNo": 1,
+		"geoStateId": "OKI",
+		"geoCode": "OKI",
+		"geoCodeId": "508117000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Oxfordshire",
+		"domainNo": 1,
+		"geoStateId": "OXF",
+		"geoCode": "OXF",
+		"geoCodeId": "508118000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Peeblesshire",
+		"domainNo": 1,
+		"geoStateId": "PEE",
+		"geoCode": "PEE",
+		"geoCodeId": "508119000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Pembrokeshire",
+		"domainNo": 1,
+		"geoStateId": "PEM",
+		"geoCode": "PEM",
+		"geoCodeId": "508120000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Perthshire",
+		"domainNo": 1,
+		"geoStateId": "PER",
+		"geoCode": "PER",
+		"geoCodeId": "508121000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Powys",
+		"domainNo": 1,
+		"geoStateId": "POW",
+		"geoCode": "POW",
+		"geoCodeId": "508122000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Radnorshire",
+		"domainNo": 1,
+		"geoStateId": "RAD",
+		"geoCode": "RAD",
+		"geoCodeId": "508123000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Renfrewshire",
+		"domainNo": 1,
+		"geoStateId": "RFW",
+		"geoCode": "RFW",
+		"geoCodeId": "508124000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Rossand Cromarty",
+		"domainNo": 1,
+		"geoStateId": "ROC",
+		"geoCode": "ROC",
+		"geoCodeId": "508125000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Roscommon",
+		"domainNo": 1,
+		"geoStateId": "ROS",
+		"geoCode": "ROS",
+		"geoCodeId": "508126000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Roxburghshire",
+		"domainNo": 1,
+		"geoStateId": "ROX",
+		"geoCode": "ROX",
+		"geoCodeId": "508127000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Rutland",
+		"domainNo": 1,
+		"geoStateId": "RTL",
+		"geoCode": "RTL",
+		"geoCodeId": "508128000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Rutland",
+		"domainNo": 1,
+		"geoStateId": "RUT",
+		"geoCode": "RUT",
+		"geoCodeId": "508129000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Shropshire",
+		"domainNo": 1,
+		"geoStateId": "SAL",
+		"geoCode": "SAL",
+		"geoCodeId": "508130000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Scotland",
+		"domainNo": 1,
+		"geoStateId": "SCT",
+		"geoCode": "SCT",
+		"geoCodeId": "508131000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Selkirkshire",
+		"domainNo": 1,
+		"geoStateId": "SEL",
+		"geoCode": "SEL",
+		"geoCodeId": "508132000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Suffolk",
+		"domainNo": 1,
+		"geoStateId": "SFK",
+		"geoCode": "SFK",
+		"geoCodeId": "508133000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "South Glamorgan",
+		"domainNo": 1,
+		"geoStateId": "SGM",
+		"geoCode": "SGM",
+		"geoCodeId": "508134000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Shetland",
+		"domainNo": 1,
+		"geoStateId": "SHI",
+		"geoCode": "SHI",
+		"geoCodeId": "508135000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Sligo",
+		"domainNo": 1,
+		"geoStateId": "SLI",
+		"geoCode": "SLI",
+		"geoCodeId": "508136000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Somerset",
+		"domainNo": 1,
+		"geoStateId": "SOM",
+		"geoCode": "SOM",
+		"geoCodeId": "508137000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Sark",
+		"domainNo": 1,
+		"geoStateId": "SRK",
+		"geoCode": "SRK",
+		"geoCodeId": "508138000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Surrey",
+		"domainNo": 1,
+		"geoStateId": "SRY",
+		"geoCode": "SRY",
+		"geoCodeId": "508139000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Sussex",
+		"domainNo": 1,
+		"geoStateId": "SSX",
+		"geoCode": "SSX",
+		"geoCodeId": "508140000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Strathclyde",
+		"domainNo": 1,
+		"geoStateId": "STD",
+		"geoCode": "STD",
+		"geoCodeId": "508141000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Stirlingshire",
+		"domainNo": 1,
+		"geoStateId": "STI",
+		"geoCode": "STI",
+		"geoCodeId": "508142000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Staffordshire",
+		"domainNo": 1,
+		"geoStateId": "STS",
+		"geoCode": "STS",
+		"geoCodeId": "508143000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Sutherland",
+		"domainNo": 1,
+		"geoStateId": "SUT",
+		"geoCode": "SUT",
+		"geoCodeId": "508144000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "East Sussex",
+		"domainNo": 1,
+		"geoStateId": "SXE",
+		"geoCode": "SXE",
+		"geoCodeId": "508145000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "West Sussex",
+		"domainNo": 1,
+		"geoStateId": "SXW",
+		"geoCode": "SXW",
+		"geoCodeId": "508146000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "South Yorkshire",
+		"domainNo": 1,
+		"geoStateId": "SYK",
+		"geoCode": "SYK",
+		"geoCodeId": "508147000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Tayside",
+		"domainNo": 1,
+		"geoStateId": "TAY",
+		"geoCode": "TAY",
+		"geoCodeId": "508148000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Tipperary",
+		"domainNo": 1,
+		"geoStateId": "TIP",
+		"geoCode": "TIP",
+		"geoCodeId": "508149000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Tyne and Wear",
+		"domainNo": 1,
+		"geoStateId": "TWR",
+		"geoCode": "TWR",
+		"geoCodeId": "508150000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Tyrone",
+		"domainNo": 1,
+		"geoStateId": "TYR",
+		"geoCode": "TYR",
+		"geoCodeId": "508151000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "United Kingdom",
+		"domainNo": 1,
+		"geoStateId": "UK",
+		"geoCode": "UK",
+		"geoCodeId": "508152000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Warwickshire",
+		"domainNo": 1,
+		"geoStateId": "WAR",
+		"geoCode": "WAR",
+		"geoCodeId": "508153000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Waterford",
+		"domainNo": 1,
+		"geoStateId": "WAT",
+		"geoCode": "WAT",
+		"geoCodeId": "508154000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Westmeath",
+		"domainNo": 1,
+		"geoStateId": "WEM",
+		"geoCode": "WEM",
+		"geoCodeId": "508155000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Westmorland",
+		"domainNo": 1,
+		"geoStateId": "WES",
+		"geoCode": "WES",
+		"geoCodeId": "508156000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wexford",
+		"domainNo": 1,
+		"geoStateId": "WEX",
+		"geoCode": "WEX",
+		"geoCodeId": "508157000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "WestGlamorgan",
+		"domainNo": 1,
+		"geoStateId": "WGM",
+		"geoCode": "WGM",
+		"geoCodeId": "508158000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wicklow",
+		"domainNo": 1,
+		"geoStateId": "WIC",
+		"geoCode": "WIC",
+		"geoCodeId": "508159000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wigtownshire",
+		"domainNo": 1,
+		"geoStateId": "WIG",
+		"geoCode": "WIG",
+		"geoCodeId": "508160000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wiltshire",
+		"domainNo": 1,
+		"geoStateId": "WIL",
+		"geoCode": "WIL",
+		"geoCodeId": "508161000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "WesternIsles",
+		"domainNo": 1,
+		"geoStateId": "WIS",
+		"geoCode": "WIS",
+		"geoCodeId": "508162000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "WestLothian(formerly Linlithgowshire)",
+		"domainNo": 1,
+		"geoStateId": "WLN",
+		"geoCode": "WLN",
+		"geoCodeId": "508163000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wales",
+		"domainNo": 1,
+		"geoStateId": "WLS",
+		"geoCode": "WLS",
+		"geoCodeId": "508164000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Wes Midlands",
+		"domainNo": 1,
+		"geoStateId": "WMD",
+		"geoCode": "WMD",
+		"geoCodeId": "508165000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Worcestershire",
+		"domainNo": 1,
+		"geoStateId": "WOR",
+		"geoCode": "WOR",
+		"geoCodeId": "508166000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Yorkshire West Riding",
+		"domainNo": 1,
+		"geoStateId": "WRY",
+		"geoCode": "WRY",
+		"geoCodeId": "508167000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "West Yorkshire",
+		"domainNo": 1,
+		"geoStateId": "WYK",
+		"geoCode": "WYK",
+		"geoCodeId": "508168000000",
+		"geoCountryId": "UK"
+	},
+	{
+		"geoName": "Yorkshire",
+		"domainNo": 1,
+		"geoStateId": "YKS",
+		"geoCode": "YKS",
+		"geoCodeId": "508169000000",
+		"geoCountryId": "UK"
+	}
+]

@@ -1,0 +1,129 @@
+[
+	{
+		"geoName": "Canada",
+		"domainNo": 1,
+		"geoCode": "CAN",
+		"geoCodeId": "510000000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Alberta",
+		"domainNo": 1,
+		"geoStateId": "AB",
+		"geoCode": "AB",
+		"geoCodeId": "510001000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "British Columbia",
+		"domainNo": 1,
+		"geoStateId": "BC",
+		"geoCode": "BC",
+		"geoCodeId": "510002000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Canada",
+		"domainNo": 1,
+		"geoStateId": "CN",
+		"geoCode": "CN",
+		"geoCodeId": "510003000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Manatoba",
+		"domainNo": 1,
+		"geoStateId": "MB",
+		"geoCode": "MB",
+		"geoCodeId": "510004000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "New Brunswick",
+		"domainNo": 1,
+		"geoStateId": "NB",
+		"geoCode": "NB",
+		"geoCodeId": "510005000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Newfoundland",
+		"domainNo": 1,
+		"geoStateId": "NF",
+		"geoCode": "NF",
+		"geoCodeId": "510006000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Newfoundland",
+		"domainNo": 1,
+		"geoStateId": "NL",
+		"geoCode": "NL",
+		"geoCodeId": "510007000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Nova Scotia",
+		"domainNo": 1,
+		"geoStateId": "NS",
+		"geoCode": "NS",
+		"geoCodeId": "510008000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Northwest Terr",
+		"domainNo": 1,
+		"geoStateId": "NT",
+		"geoCode": "NT",
+		"geoCodeId": "510009000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Ontario",
+		"domainNo": 1,
+		"geoStateId": "ON",
+		"geoCode": "ON",
+		"geoCodeId": "510010000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Price Edward Is",
+		"domainNo": 1,
+		"geoStateId": "PE",
+		"geoCode": "PE",
+		"geoCodeId": "510011000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Prov of Quebec",
+		"domainNo": 1,
+		"geoStateId": "QC",
+		"geoCode": "QC",
+		"geoCodeId": "510012000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Saskatchewan",
+		"domainNo": 1,
+		"geoStateId": "SK",
+		"geoCode": "SK",
+		"geoCodeId": "510013000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Yukon",
+		"domainNo": 1,
+		"geoStateId": "YT",
+		"geoCode": "YT",
+		"geoCodeId": "510014000000",
+		"geoCountryId": "CAN"
+	},
+	{
+		"geoName": "Nunavut",
+		"domainNo": 1,
+		"geoStateId": "NU",
+		"geoCode": "NU",
+		"geoCodeId": "510015000000",
+		"geoCountryId": "CAN"
+	}
+]

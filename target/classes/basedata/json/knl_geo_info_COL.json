@@ -1,0 +1,266 @@
+[
+	{
+		"geoName": "Colombia",
+		"domainNo": "1",
+		"geoStateId": "",
+		"geoCode": "COL",
+		"geoCodeId": "057000000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Amazonas",
+		"domainNo": "1",
+		"geoStateId": "AM",
+		"geoCode": "AM",
+		"geoCodeId": "057001000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Antioquía",
+		"domainNo": "1",
+		"geoStateId": "AN",
+		"geoCode": "AN",
+		"geoCodeId": "057002000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Arauca",
+		"domainNo": "1",
+		"geoStateId": "AR",
+		"geoCode": "AR",
+		"geoCodeId": "057003000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Atlántico",
+		"domainNo": "1",
+		"geoStateId": "AT",
+		"geoCode": "AT",
+		"geoCodeId": "057004000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Bolívar",
+		"domainNo": "1",
+		"geoStateId": "BV",
+		"geoCode": "BV",
+		"geoCodeId": "057005000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Boyacá",
+		"domainNo": "1",
+		"geoStateId": "BO",
+		"geoCode": "BO",
+		"geoCodeId": "057006000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Caldas",
+		"domainNo": "1",
+		"geoStateId": "CL",
+		"geoCode": "CL",
+		"geoCodeId": "057007000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Caquetá",
+		"domainNo": "1",
+		"geoStateId": "CQ",
+		"geoCode": "CQ",
+		"geoCodeId": "057008000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Casanare",
+		"domainNo": "1",
+		"geoStateId": "CS",
+		"geoCode": "CS",
+		"geoCodeId": "057009000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Cauca",
+		"domainNo": "1",
+		"geoStateId": "CU",
+		"geoCode": "CU",
+		"geoCodeId": "057010000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Cesar",
+		"domainNo": "1",
+		"geoStateId": "CE",
+		"geoCode": "CE",
+		"geoCodeId": "057011000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Choco",
+		"domainNo": "1",
+		"geoStateId": "CH",
+		"geoCode": "CH",
+		"geoCodeId": "057012000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Córdoba",
+		"domainNo": "1",
+		"geoStateId": "C�",
+		"geoCode": "C�",
+		"geoCodeId": "057013000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Cundinamarca",
+		"domainNo": "1",
+		"geoStateId": "CR",
+		"geoCode": "CR",
+		"geoCodeId": "057014000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Guainía",
+		"domainNo": "1",
+		"geoStateId": "GU",
+		"geoCode": "GU",
+		"geoCodeId": "057015000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Guaviare",
+		"domainNo": "1",
+		"geoStateId": "GV",
+		"geoCode": "GV",
+		"geoCodeId": "057016000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Huila",
+		"domainNo": "1",
+		"geoStateId": "HU",
+		"geoCode": "HU",
+		"geoCodeId": "057017000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "La Guajira",
+		"domainNo": "1",
+		"geoStateId": "LA",
+		"geoCode": "LA",
+		"geoCodeId": "057018000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Magdalena",
+		"domainNo": "1",
+		"geoStateId": "MA",
+		"geoCode": "MA",
+		"geoCodeId": "057019000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Meta",
+		"domainNo": "1",
+		"geoStateId": "ME",
+		"geoCode": "ME",
+		"geoCodeId": "057020000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Nariño",
+		"domainNo": "1",
+		"geoStateId": "NA",
+		"geoCode": "NA",
+		"geoCodeId": "057021000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Norte de Santander",
+		"domainNo": "1",
+		"geoStateId": "NO",
+		"geoCode": "NO",
+		"geoCodeId": "057022000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Putumayo",
+		"domainNo": "1",
+		"geoStateId": "PU",
+		"geoCode": "PU",
+		"geoCodeId": "057023000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Quindío",
+		"domainNo": "1",
+		"geoStateId": "QU",
+		"geoCode": "QU",
+		"geoCodeId": "057024000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Risaralda",
+		"domainNo": "1",
+		"geoStateId": "RI",
+		"geoCode": "RI",
+		"geoCodeId": "057025000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "San Andrés y Providencia",
+		"domainNo": "1",
+		"geoStateId": "SA",
+		"geoCode": "SA",
+		"geoCodeId": "057026000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Santander",
+		"domainNo": "1",
+		"geoStateId": "SN",
+		"geoCode": "SN",
+		"geoCodeId": "057027000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Sucre",
+		"domainNo": "1",
+		"geoStateId": "SU",
+		"geoCode": "SU",
+		"geoCodeId": "057028000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Tolima",
+		"domainNo": "1",
+		"geoStateId": "TO",
+		"geoCode": "TO",
+		"geoCodeId": "057029000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Valle del Cauca",
+		"domainNo": "1",
+		"geoStateId": "VD",
+		"geoCode": "VD",
+		"geoCodeId": "057030000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Vaupés",
+		"domainNo": "1",
+		"geoStateId": "VP",
+		"geoCode": "VP",
+		"geoCodeId": "057031000000",
+		"geoCountryId": "COL"
+	},
+	{
+		"geoName": "Vichada",
+		"domainNo": "1",
+		"geoStateId": "VI",
+		"geoCode": "VI",
+		"geoCodeId": "057032000000",
+		"geoCountryId": "COL"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "Isle of Man",
+		"domainNo": 1,
+		"geoCode": "IOM",
+		"geoCodeId": "503000000000",
+		"geoCountryId": "IOM"
+	},
+	{
+		"geoName": "Isle of Man",
+		"domainNo": 1,
+		"geoStateId": "IOM",
+		"geoCode": "IOM",
+		"geoCodeId": "503001000000",
+		"geoCountryId": "IOM"
+	}
+]

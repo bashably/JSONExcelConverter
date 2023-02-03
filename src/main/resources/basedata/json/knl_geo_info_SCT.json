@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "SCOTLAND",
+		"domainNo": 1,
+		"geoCode": "SCT",
+		"geoCodeId": "507000000000",
+		"geoCountryId": "SCT"
+	},
+	{
+		"geoName": "SCOTLAND",
+		"domainNo": 1,
+		"geoStateId": "SCT",
+		"geoCode": "SCT",
+		"geoCodeId": "507001000000",
+		"geoCountryId": "SCT"
+	}
+]

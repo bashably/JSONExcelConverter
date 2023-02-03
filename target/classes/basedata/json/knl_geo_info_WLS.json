@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "WALES",
+		"domainNo": 1,
+		"geoCode": "WLS",
+		"geoCodeId": "509000000000",
+		"geoCountryId": "WLS"
+	},
+	{
+		"geoName": "WALES",
+		"domainNo": 1,
+		"geoStateId": "WLS",
+		"geoCode": "WLS",
+		"geoCodeId": "509001000000",
+		"geoCountryId": "WLS"
+	}
+]

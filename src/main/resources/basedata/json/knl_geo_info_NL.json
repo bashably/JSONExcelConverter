@@ -1,0 +1,137 @@
+[
+	{
+		"geoName": "Netherlands",
+		"domainNo": 1,
+		"geoCode": "NL",
+		"geoCodeId": "031000000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Drenthe",
+		"domainNo": 1,
+		"geoStateId": "DR",
+		"geoCode": "DR",
+		"geoCodeId": "031001000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Flevoland",
+		"domainNo": 1,
+		"geoStateId": "FL",
+		"geoCode": "FL",
+		"geoCodeId": "031002000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Frysl?n (fy)",
+		"domainNo": 1,
+		"geoStateId": "FR",
+		"geoCode": "FR",
+		"geoCodeId": "031003000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "GD_Netherlands",
+		"domainNo": 1,
+		"geoStateId": "GD",
+		"geoCode": "GD",
+		"geoCodeId": "031004000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Gelderland",
+		"domainNo": 1,
+		"geoStateId": "GE",
+		"geoCode": "GE",
+		"geoCodeId": "031005000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Groningen",
+		"domainNo": 1,
+		"geoStateId": "GR",
+		"geoCode": "GR",
+		"geoCodeId": "031006000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "LB_Netherlands",
+		"domainNo": 1,
+		"geoStateId": "LB",
+		"geoCode": "LB",
+		"geoCodeId": "031007000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Limburg",
+		"domainNo": 1,
+		"geoStateId": "LI",
+		"geoCode": "LI",
+		"geoCodeId": "031008000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Noord-Brabant",
+		"domainNo": 1,
+		"geoStateId": "NB",
+		"geoCode": "NB",
+		"geoCodeId": "031009000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Noord-Holland",
+		"domainNo": 1,
+		"geoStateId": "NH",
+		"geoCode": "NH",
+		"geoCodeId": "031010000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Netherlands",
+		"domainNo": 1,
+		"geoStateId": "NL",
+		"geoCode": "NL",
+		"geoCodeId": "031011000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Overijssel",
+		"domainNo": 1,
+		"geoStateId": "OV",
+		"geoCode": "OV",
+		"geoCodeId": "031012000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Utrecht",
+		"domainNo": 1,
+		"geoStateId": "UT",
+		"geoCode": "UT",
+		"geoCodeId": "031013000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Zeeland",
+		"domainNo": 1,
+		"geoStateId": "ZE",
+		"geoCode": "ZE",
+		"geoCodeId": "031014000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "Zuid-Holland",
+		"domainNo": 1,
+		"geoStateId": "ZH",
+		"geoCode": "ZH",
+		"geoCodeId": "031015000000",
+		"geoCountryId": "NL"
+	},
+	{
+		"geoName": "ZLNetherlands",
+		"domainNo": 1,
+		"geoStateId": "ZL",
+		"geoCode": "ZL",
+		"geoCodeId": "031016000000",
+		"geoCountryId": "NL"
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"geoName": "United Kingdom",
+		"domainNo": 1,
+		"geoCode": "GB",
+		"geoCodeId": "044000000000",
+		"geoCountryId": "GB"
+	},
+	{
+		"geoName": "England",
+		"domainNo": 1,
+		"geoStateId": "ENG",
+		"geoCode": "ENG",
+		"geoCodeId": "044001000000",
+		"geoCountryId": "GB"
+	},
+	{
+		"geoName": "Guernsey",
+		"domainNo": 1,
+		"geoStateId": "GNY",
+		"geoCode": "GNY",
+		"geoCodeId": "044002000000",
+		"geoCountryId": "GB"
+	},
+	{
+		"geoName": "Jersey",
+		"domainNo": 1,
+		"geoStateId": "JER",
+		"geoCode": "JER",
+		"geoCodeId": "044003000000",
+		"geoCountryId": "GB"
+	},
+	{
+		"geoName": "Scotland",
+		"domainNo": 1,
+		"geoStateId": "SCO",
+		"geoCode": "SCO",
+		"geoCodeId": "044004000000",
+		"geoCountryId": "GB"
+	},
+	{
+		"geoName": "Wales",
+		"domainNo": 1,
+		"geoStateId": "WAL",
+		"geoCode": "WAL",
+		"geoCodeId": "044005000000",
+		"geoCountryId": "GB"
+	}
+]

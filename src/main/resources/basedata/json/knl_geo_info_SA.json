@@ -1,0 +1,73 @@
+[
+	{
+		"geoName": "Saudi Arabia",
+		"domainNo": 1,
+		"geoCode": "SA",
+		"geoCodeId": "966000000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Asir",
+		"domainNo": 1,
+		"geoStateId": "AR",
+		"geoCode": "AR",
+		"geoCodeId": "966001000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Dammam",
+		"domainNo": 1,
+		"geoStateId": "DM",
+		"geoCode": "DM",
+		"geoCodeId": "966002000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Jeddah",
+		"domainNo": 1,
+		"geoStateId": "JD",
+		"geoCode": "JD",
+		"geoCodeId": "966003000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Madinah",
+		"domainNo": 1,
+		"geoStateId": "MD",
+		"geoCode": "MD",
+		"geoCodeId": "966004000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Makkah",
+		"domainNo": 1,
+		"geoStateId": "MK",
+		"geoCode": "MK",
+		"geoCodeId": "966005000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Riyad",
+		"domainNo": 1,
+		"geoStateId": "RD",
+		"geoCode": "RD",
+		"geoCodeId": "966006000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Saudi Arabia",
+		"domainNo": 1,
+		"geoStateId": "SA",
+		"geoCode": "SA",
+		"geoCodeId": "966007000000",
+		"geoCountryId": "SA"
+	},
+	{
+		"geoName": "Taif",
+		"domainNo": 1,
+		"geoStateId": "TF",
+		"geoCode": "TF",
+		"geoCodeId": "966008000000",
+		"geoCountryId": "SA"
+	}
+]

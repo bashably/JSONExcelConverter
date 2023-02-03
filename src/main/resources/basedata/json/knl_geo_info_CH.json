@@ -1,0 +1,233 @@
+[
+	{
+		"geoName": "Switzerland",
+		"domainNo": 1,
+		"geoCode": "CH",
+		"geoCodeId": "041000000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Aargau",
+		"domainNo": 1,
+		"geoStateId": "AG",
+		"geoCode": "AG",
+		"geoCodeId": "041001000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Inner-Rhoden",
+		"domainNo": 1,
+		"geoStateId": "AI",
+		"geoCode": "AI",
+		"geoCodeId": "041002000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Ausser-Rhoden",
+		"domainNo": 1,
+		"geoStateId": "AR",
+		"geoCode": "AR",
+		"geoCodeId": "041003000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Bern",
+		"domainNo": 1,
+		"geoStateId": "BE",
+		"geoCode": "BE",
+		"geoCodeId": "041004000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Basel Land",
+		"domainNo": 1,
+		"geoStateId": "BL",
+		"geoCode": "BL",
+		"geoCodeId": "041005000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Basel Stadt",
+		"domainNo": 1,
+		"geoStateId": "BS",
+		"geoCode": "BS",
+		"geoCodeId": "041006000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Switzerland",
+		"domainNo": 1,
+		"geoStateId": "CH",
+		"geoCode": "CH",
+		"geoCodeId": "041007000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Liechtenstein",
+		"domainNo": 1,
+		"geoStateId": "FL",
+		"geoCode": "FL",
+		"geoCodeId": "041008000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Fribourg",
+		"domainNo": 1,
+		"geoStateId": "FR",
+		"geoCode": "FR",
+		"geoCodeId": "041009000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Geneva",
+		"domainNo": 1,
+		"geoStateId": "GE",
+		"geoCode": "GE",
+		"geoCodeId": "041010000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Glarus",
+		"domainNo": 1,
+		"geoStateId": "GL",
+		"geoCode": "GL",
+		"geoCodeId": "041011000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Graubuenden",
+		"domainNo": 1,
+		"geoStateId": "GR",
+		"geoCode": "GR",
+		"geoCodeId": "041012000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Jura",
+		"domainNo": 1,
+		"geoStateId": "JU",
+		"geoCode": "JU",
+		"geoCodeId": "041013000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Lucerne",
+		"domainNo": 1,
+		"geoStateId": "LU",
+		"geoCode": "LU",
+		"geoCodeId": "041014000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Neuchatel",
+		"domainNo": 1,
+		"geoStateId": "NE",
+		"geoCode": "NE",
+		"geoCodeId": "041015000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Nidwalden",
+		"domainNo": 1,
+		"geoStateId": "NW",
+		"geoCode": "NW",
+		"geoCodeId": "041016000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Obwalden",
+		"domainNo": 1,
+		"geoStateId": "OW",
+		"geoCode": "OW",
+		"geoCodeId": "041017000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "St. Gallen",
+		"domainNo": 1,
+		"geoStateId": "SG",
+		"geoCode": "SG",
+		"geoCodeId": "041018000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Schaffhausen",
+		"domainNo": 1,
+		"geoStateId": "SH",
+		"geoCode": "SH",
+		"geoCodeId": "041019000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Solothurn",
+		"domainNo": 1,
+		"geoStateId": "SO",
+		"geoCode": "SO",
+		"geoCodeId": "041020000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Schwyz",
+		"domainNo": 1,
+		"geoStateId": "SZ",
+		"geoCode": "SZ",
+		"geoCodeId": "041021000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Thurgau",
+		"domainNo": 1,
+		"geoStateId": "TG",
+		"geoCode": "TG",
+		"geoCodeId": "041022000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Ticino",
+		"domainNo": 1,
+		"geoStateId": "TI",
+		"geoCode": "TI",
+		"geoCodeId": "041023000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Uri",
+		"domainNo": 1,
+		"geoStateId": "UR",
+		"geoCode": "UR",
+		"geoCodeId": "041024000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Vaud",
+		"domainNo": 1,
+		"geoStateId": "VD",
+		"geoCode": "VD",
+		"geoCodeId": "041025000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Valais",
+		"domainNo": 1,
+		"geoStateId": "VS",
+		"geoCode": "VS",
+		"geoCodeId": "041026000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Zug",
+		"domainNo": 1,
+		"geoStateId": "ZG",
+		"geoCode": "ZG",
+		"geoCodeId": "041027000000",
+		"geoCountryId": "CH"
+	},
+	{
+		"geoName": "Zurich",
+		"domainNo": 1,
+		"geoStateId": "ZH",
+		"geoCode": "ZH",
+		"geoCodeId": "041028000000",
+		"geoCountryId": "CH"
+	}
+]

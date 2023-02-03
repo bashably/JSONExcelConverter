@@ -1,0 +1,17 @@
+[
+	{
+		"geoName": "ENGLAND",
+		"domainNo": 1,
+		"geoCode": "ENG",
+		"geoCodeId": "501000000000",
+		"geoCountryId": "ENG"
+	},
+	{
+		"geoName": "ENGLAND",
+		"domainNo": 1,
+		"geoStateId": "ENG",
+		"geoCode": "ENG",
+		"geoCodeId": "501001000000",
+		"geoCountryId": "ENG"
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"geoName": "UnitedKingdom",
+		"domainNo": 1,
+		"geoCode": "GBR",
+		"geoCodeId": "512000000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "England",
+		"domainNo": 1,
+		"geoStateId": "ENG",
+		"geoCode": "ENG",
+		"geoCodeId": "512001000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "England",
+		"domainNo": 1,
+		"geoStateId": "GBR",
+		"geoCode": "GBR",
+		"geoCodeId": "512002000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Harrods",
+		"domainNo": 1,
+		"geoStateId": "HAR",
+		"geoCode": "HAR",
+		"geoCodeId": "512003000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Isle Of Man",
+		"domainNo": 1,
+		"geoStateId": "IOM",
+		"geoCode": "IOM",
+		"geoCodeId": "512004000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Northern Ireland",
+		"domainNo": 1,
+		"geoStateId": "NIR",
+		"geoCode": "NIR",
+		"geoCodeId": "512005000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Scotland",
+		"domainNo": 1,
+		"geoStateId": "SCO",
+		"geoCode": "SCO",
+		"geoCodeId": "512006000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Travel",
+		"domainNo": 1,
+		"geoStateId": "TRV",
+		"geoCode": "TRV",
+		"geoCodeId": "512007000000",
+		"geoCountryId": "GBR"
+	},
+	{
+		"geoName": "Wales",
+		"domainNo": 1,
+		"geoStateId": "WAL",
+		"geoCode": "WAL",
+		"geoCodeId": "512008000000",
+		"geoCountryId": "GBR"
+	}
+]

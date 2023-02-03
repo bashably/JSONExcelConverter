@@ -1,0 +1,217 @@
+[
+	{
+		"geoName": "Spain",
+		"domainNo": 1,
+		"geoCode": "ES",
+		"geoCodeId": "034000000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "Spain",
+		"domainNo": 1,
+		"geoStateId": "ES",
+		"geoCode": "ES",
+		"geoCodeId": "034001000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-AN",
+		"domainNo": 1,
+		"geoStateId": "ES-AN",
+		"geoCode": "ES-AN",
+		"geoCodeId": "034002000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-AR",
+		"domainNo": 1,
+		"geoStateId": "ES-AR",
+		"geoCode": "ES-AR",
+		"geoCodeId": "034003000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-AS",
+		"domainNo": 1,
+		"geoStateId": "ES-AS",
+		"geoCode": "ES-AS",
+		"geoCodeId": "034004000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CB",
+		"domainNo": 1,
+		"geoStateId": "ES-CB",
+		"geoCode": "ES-CB",
+		"geoCodeId": "034005000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CE",
+		"domainNo": 1,
+		"geoStateId": "ES-CE",
+		"geoCode": "ES-CE",
+		"geoCodeId": "034006000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CL",
+		"domainNo": 1,
+		"geoStateId": "ES-CL",
+		"geoCode": "ES-CL",
+		"geoCodeId": "034007000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CM",
+		"domainNo": 1,
+		"geoStateId": "ES-CM",
+		"geoCode": "ES-CM",
+		"geoCodeId": "034008000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CN",
+		"domainNo": 1,
+		"geoStateId": "ES-CN",
+		"geoCode": "ES-CN",
+		"geoCodeId": "034009000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-CT",
+		"domainNo": 1,
+		"geoStateId": "ES-CT",
+		"geoCode": "ES-CT",
+		"geoCodeId": "034010000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-EX",
+		"domainNo": 1,
+		"geoStateId": "ES-EX",
+		"geoCode": "ES-EX",
+		"geoCodeId": "034011000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-GA",
+		"domainNo": 1,
+		"geoStateId": "ES-GA",
+		"geoCode": "ES-GA",
+		"geoCodeId": "034012000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-GL",
+		"domainNo": 1,
+		"geoStateId": "ES-GL",
+		"geoCode": "ES-GL",
+		"geoCodeId": "034013000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-IB",
+		"domainNo": 1,
+		"geoStateId": "ES-IB",
+		"geoCode": "ES-IB",
+		"geoCodeId": "034014000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-IC",
+		"domainNo": 1,
+		"geoStateId": "ES-IC",
+		"geoCode": "ES-IC",
+		"geoCodeId": "034015000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-MC",
+		"domainNo": 1,
+		"geoStateId": "ES-MC",
+		"geoCode": "ES-MC",
+		"geoCodeId": "034016000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-MD",
+		"domainNo": 1,
+		"geoStateId": "ES-MD",
+		"geoCode": "ES-MD",
+		"geoCodeId": "034017000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-ML",
+		"domainNo": 1,
+		"geoStateId": "ES-ML",
+		"geoCode": "ES-ML",
+		"geoCodeId": "034018000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-MU",
+		"domainNo": 1,
+		"geoStateId": "ES-MU",
+		"geoCode": "ES-MU",
+		"geoCodeId": "034019000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-NA",
+		"domainNo": 1,
+		"geoStateId": "ES-NA",
+		"geoCode": "ES-NA",
+		"geoCodeId": "034020000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-NC",
+		"domainNo": 1,
+		"geoStateId": "ES-NC",
+		"geoCode": "ES-NC",
+		"geoCodeId": "034021000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-PV",
+		"domainNo": 1,
+		"geoStateId": "ES-PV",
+		"geoCode": "ES-PV",
+		"geoCodeId": "034022000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-RI",
+		"domainNo": 1,
+		"geoStateId": "ES-RI",
+		"geoCode": "ES-RI",
+		"geoCodeId": "034023000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES-VC",
+		"domainNo": 1,
+		"geoStateId": "ES-VC",
+		"geoCode": "ES-VC",
+		"geoCodeId": "034024000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "Catalunya",
+		"domainNo": 1,
+		"geoStateId": "ES_CT",
+		"geoCode": "ES_CT",
+		"geoCodeId": "034025000000",
+		"geoCountryId": "ES"
+	},
+	{
+		"geoName": "ES_S",
+		"domainNo": 1,
+		"geoStateId": "ES_S",
+		"geoCode": "ES_S",
+		"geoCodeId": "034026000000",
+		"geoCountryId": "ES"
+	}
+]

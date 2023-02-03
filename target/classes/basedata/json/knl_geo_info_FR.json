@@ -1,0 +1,858 @@
+[
+	{
+		"geoName": "France",
+		"domainNo": "1",
+		"geoStateId": "",
+		"geoCode": "FR",
+		"geoCodeId": "03300000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ain",
+		"domainNo": "1",
+		"geoStateId": "AI",
+		"geoCode": "AI",
+		"geoCodeId": "03300100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Aube",
+		"domainNo": "1",
+		"geoStateId": "AU",
+		"geoCode": "AU",
+		"geoCodeId": "03300200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Aveyron",
+		"domainNo": "1",
+		"geoStateId": "AV",
+		"geoCode": "AV",
+		"geoCodeId": "03300300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Bouches-du-Rh?ne",
+		"domainNo": "1",
+		"geoStateId": "BO",
+		"geoCode": "BO",
+		"geoCodeId": "03300400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Calvados",
+		"domainNo": "1",
+		"geoStateId": "CL",
+		"geoCode": "CL",
+		"geoCodeId": "03300500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Cantal",
+		"domainNo": "1",
+		"geoStateId": "CA",
+		"geoCode": "CA",
+		"geoCodeId": "03300600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Charente",
+		"domainNo": "1",
+		"geoStateId": "CR",
+		"geoCode": "CR",
+		"geoCodeId": "03300700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Charente-Maritime",
+		"domainNo": "1",
+		"geoStateId": "CM",
+		"geoCode": "CM",
+		"geoCodeId": "03300800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Cher",
+		"domainNo": "1",
+		"geoStateId": "CH",
+		"geoCode": "CH",
+		"geoCodeId": "03300900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Corr?ze",
+		"domainNo": "1",
+		"geoStateId": "CO",
+		"geoCode": "CO",
+		"geoCodeId": "03301000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Aisne",
+		"domainNo": "1",
+		"geoStateId": "AS",
+		"geoCode": "AS",
+		"geoCodeId": "03301100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "C?te-d'Or",
+		"domainNo": "1",
+		"geoStateId": "TE",
+		"geoCode": "TE",
+		"geoCodeId": "03301200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "C?tes-d'Armor",
+		"domainNo": "1",
+		"geoStateId": "TA",
+		"geoCode": "TA",
+		"geoCodeId": "03301300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Creuse",
+		"domainNo": "1",
+		"geoStateId": "CU",
+		"geoCode": "CU",
+		"geoCodeId": "03301400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Dordogne",
+		"domainNo": "1",
+		"geoStateId": "DR",
+		"geoCode": "DR",
+		"geoCodeId": "03301500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Doubs",
+		"domainNo": "1",
+		"geoStateId": "DO",
+		"geoCode": "DO",
+		"geoCodeId": "03301600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Dr?me",
+		"domainNo": "1",
+		"geoStateId": "DM",
+		"geoCode": "DM",
+		"geoCodeId": "03301700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Eure",
+		"domainNo": "1",
+		"geoStateId": "EU",
+		"geoCode": "EU",
+		"geoCodeId": "03301800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Eure-et-Loir",
+		"domainNo": "1",
+		"geoStateId": "EL",
+		"geoCode": "EL",
+		"geoCodeId": "03301900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Finist?re",
+		"domainNo": "1",
+		"geoStateId": "FI",
+		"geoCode": "FI",
+		"geoCodeId": "03302000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Corse-du-Sud",
+		"domainNo": "1",
+		"geoStateId": "CS",
+		"geoCode": "CS",
+		"geoCodeId": "03302100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Corse-du-Nord",
+		"domainNo": "1",
+		"geoStateId": "CN",
+		"geoCode": "CN",
+		"geoCodeId": "03302200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Allier",
+		"domainNo": "1",
+		"geoStateId": "AL",
+		"geoCode": "AL",
+		"geoCodeId": "03302300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Gard",
+		"domainNo": "1",
+		"geoStateId": "GA",
+		"geoCode": "GA",
+		"geoCodeId": "03302400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Garonne (Haute)",
+		"domainNo": "1",
+		"geoStateId": "GN",
+		"geoCode": "GN",
+		"geoCodeId": "03302500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Gers",
+		"domainNo": "1",
+		"geoStateId": "GE",
+		"geoCode": "GE",
+		"geoCodeId": "03302600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Gironde",
+		"domainNo": "1",
+		"geoStateId": "GI",
+		"geoCode": "GI",
+		"geoCodeId": "03302700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "H?rault",
+		"domainNo": "1",
+		"geoStateId": "HL",
+		"geoCode": "HL",
+		"geoCodeId": "03302800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ille-et-Vilaine",
+		"domainNo": "1",
+		"geoStateId": "IV",
+		"geoCode": "IV",
+		"geoCodeId": "03302900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Indre",
+		"domainNo": "1",
+		"geoStateId": "IN",
+		"geoCode": "IN",
+		"geoCodeId": "03303000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Indre-et-Loire",
+		"domainNo": "1",
+		"geoStateId": "IL",
+		"geoCode": "IL",
+		"geoCodeId": "03303100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Is?re",
+		"domainNo": "1",
+		"geoStateId": "IS",
+		"geoCode": "IS",
+		"geoCodeId": "03303200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Jura",
+		"domainNo": "1",
+		"geoStateId": "JU",
+		"geoCode": "JU",
+		"geoCodeId": "03300330000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Alpes (Hte-Provence)",
+		"domainNo": "1",
+		"geoStateId": "AP",
+		"geoCode": "AP",
+		"geoCodeId": "03303400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Landes",
+		"domainNo": "1",
+		"geoStateId": "LN",
+		"geoCode": "LN",
+		"geoCodeId": "03303500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loir-et-Cher",
+		"domainNo": "1",
+		"geoStateId": "LC",
+		"geoCode": "LC",
+		"geoCodeId": "03303600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loire",
+		"domainNo": "1",
+		"geoStateId": "LO",
+		"geoCode": "LO",
+		"geoCodeId": "03303700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loire (Haute)",
+		"domainNo": "1",
+		"geoStateId": "LH",
+		"geoCode": "LH",
+		"geoCodeId": "03303800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loire-Atlantique",
+		"domainNo": "1",
+		"geoStateId": "LA",
+		"geoCode": "LA",
+		"geoCodeId": "03303900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loiret",
+		"domainNo": "1",
+		"geoStateId": "LR",
+		"geoCode": "LR",
+		"geoCodeId": "03304000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Lot",
+		"domainNo": "1",
+		"geoStateId": "LT",
+		"geoCode": "LT",
+		"geoCodeId": "03304100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Lot-et-Garonne",
+		"domainNo": "1",
+		"geoStateId": "LG",
+		"geoCode": "LG",
+		"geoCodeId": "03304200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Loz?re",
+		"domainNo": "1",
+		"geoStateId": "LZ",
+		"geoCode": "LZ",
+		"geoCodeId": "03304300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Maine-et-Loire",
+		"domainNo": "1",
+		"geoStateId": "ML",
+		"geoCode": "ML",
+		"geoCodeId": "03304400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Alpes (Hautes)",
+		"domainNo": "1",
+		"geoStateId": "AH",
+		"geoCode": "AH",
+		"geoCodeId": "03304500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Manche",
+		"domainNo": "1",
+		"geoStateId": "MN",
+		"geoCode": "MN",
+		"geoCodeId": "03304600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Marne",
+		"domainNo": "1",
+		"geoStateId": "MR",
+		"geoCode": "MR",
+		"geoCodeId": "03304700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Marne (Haute)",
+		"domainNo": "1",
+		"geoStateId": "MH",
+		"geoCode": "MH",
+		"geoCodeId": "03304800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Mayenne",
+		"domainNo": "1",
+		"geoStateId": "MY",
+		"geoCode": "MY",
+		"geoCodeId": "03304900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Meurthe-et-Moselle",
+		"domainNo": "1",
+		"geoStateId": "MM",
+		"geoCode": "MM",
+		"geoCodeId": "03305000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Meuse",
+		"domainNo": "1",
+		"geoStateId": "MU",
+		"geoCode": "MU",
+		"geoCodeId": "03305100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Morbihan",
+		"domainNo": "1",
+		"geoStateId": "MB",
+		"geoCode": "MB",
+		"geoCodeId": "03305200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Moselle",
+		"domainNo": "1",
+		"geoStateId": "MS",
+		"geoCode": "MS",
+		"geoCodeId": "03305300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ni?vre",
+		"domainNo": "1",
+		"geoStateId": "NI",
+		"geoCode": "NI",
+		"geoCodeId": "03305400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Nord",
+		"domainNo": "1",
+		"geoStateId": "NO",
+		"geoCode": "NO",
+		"geoCodeId": "03305500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Alpes-Maritimes",
+		"domainNo": "1",
+		"geoStateId": "AM",
+		"geoCode": "AM",
+		"geoCodeId": "03305600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Oise",
+		"domainNo": "1",
+		"geoStateId": "OI",
+		"geoCode": "OI",
+		"geoCodeId": "03305700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Orne",
+		"domainNo": "1",
+		"geoStateId": "OR",
+		"geoCode": "OR",
+		"geoCodeId": "03305800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Pas-de-Calais",
+		"domainNo": "1",
+		"geoStateId": "PC",
+		"geoCode": "PC",
+		"geoCodeId": "03305900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Puy-de-D?me",
+		"domainNo": "1",
+		"geoStateId": "PU",
+		"geoCode": "PU",
+		"geoCodeId": "03306000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Pyr?n?es-Atlantiques",
+		"domainNo": "1",
+		"geoStateId": "PA",
+		"geoCode": "PA",
+		"geoCodeId": "03306100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Pyr?n?es (Hautes)",
+		"domainNo": "1",
+		"geoStateId": "PH",
+		"geoCode": "PH",
+		"geoCodeId": "03306200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Pyr?n?es-Orientales",
+		"domainNo": "1",
+		"geoStateId": "PY",
+		"geoCode": "PY",
+		"geoCodeId": "03306300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Bas-Rhin",
+		"domainNo": "1",
+		"geoStateId": "BA",
+		"geoCode": "BA",
+		"geoCodeId": "03306400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Haut-Rhin",
+		"domainNo": "1",
+		"geoStateId": "HA",
+		"geoCode": "HA",
+		"geoCodeId": "03306500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Rh?ne",
+		"domainNo": "1",
+		"geoStateId": "RH",
+		"geoCode": "RH",
+		"geoCodeId": "03306600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ard?che",
+		"domainNo": "1",
+		"geoStateId": "AR",
+		"geoCode": "AR",
+		"geoCodeId": "03306700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Sa?ne (Haute)",
+		"domainNo": "1",
+		"geoStateId": "SH",
+		"geoCode": "SH",
+		"geoCodeId": "03306800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Sa?ne-et-Loire",
+		"domainNo": "1",
+		"geoStateId": "SL",
+		"geoCode": "SL",
+		"geoCodeId": "03306900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Sarthe",
+		"domainNo": "1",
+		"geoStateId": "ST",
+		"geoCode": "ST",
+		"geoCodeId": "03307000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Savoie",
+		"domainNo": "1",
+		"geoStateId": "SV",
+		"geoCode": "SV",
+		"geoCodeId": "03307100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Savoie (Haute)",
+		"domainNo": "1",
+		"geoStateId": "SA",
+		"geoCode": "SA",
+		"geoCodeId": "03307200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Paris",
+		"domainNo": "1",
+		"geoStateId": "PR",
+		"geoCode": "PR",
+		"geoCodeId": "03307300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Seine-Maritime",
+		"domainNo": "1",
+		"geoStateId": "SM",
+		"geoCode": "SM",
+		"geoCodeId": "03307400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Seine-et-Marne",
+		"domainNo": "1",
+		"geoStateId": "SE",
+		"geoCode": "SE",
+		"geoCodeId": "03307500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Yvelines",
+		"domainNo": "1",
+		"geoStateId": "YV",
+		"geoCode": "YV",
+		"geoCodeId": "03307600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "S?vres (Deux)",
+		"domainNo": "1",
+		"geoStateId": "SD",
+		"geoCode": "SD",
+		"geoCodeId": "03307700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ardennes",
+		"domainNo": "1",
+		"geoStateId": "AD",
+		"geoCode": "AD",
+		"geoCodeId": "03307800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Somme",
+		"domainNo": "1",
+		"geoStateId": "SO",
+		"geoCode": "SO",
+		"geoCodeId": "03307900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Tarn",
+		"domainNo": "1",
+		"geoStateId": "TR",
+		"geoCode": "TR",
+		"geoCodeId": "03308000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Tarn-et-Garonne",
+		"domainNo": "1",
+		"geoStateId": "TG",
+		"geoCode": "TG",
+		"geoCodeId": "03308100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Var",
+		"domainNo": "1",
+		"geoStateId": "VA",
+		"geoCode": "VA",
+		"geoCodeId": "03308200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Vaucluse",
+		"domainNo": "1",
+		"geoStateId": "VL",
+		"geoCode": "VL",
+		"geoCodeId": "03308300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Vend",
+		"domainNo": "1",
+		"geoStateId": "VE",
+		"geoCode": "VE",
+		"geoCodeId": "03308400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Vienne",
+		"domainNo": "1",
+		"geoStateId": "VI",
+		"geoCode": "VI",
+		"geoCodeId": "03308500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Vienne (Haute)",
+		"domainNo": "1",
+		"geoStateId": "VH",
+		"geoCode": "VH",
+		"geoCodeId": "03308600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Vosges",
+		"domainNo": "1",
+		"geoStateId": "VS",
+		"geoCode": "VS",
+		"geoCodeId": "03308700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Yonne",
+		"domainNo": "1",
+		"geoStateId": "YO",
+		"geoCode": "YO",
+		"geoCodeId": "03308800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Ari?ge",
+		"domainNo": "1",
+		"geoStateId": "AG",
+		"geoCode": "AG",
+		"geoCodeId": "03308900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Territ.-de-Belfort",
+		"domainNo": "1",
+		"geoStateId": "TB",
+		"geoCode": "TB",
+		"geoCodeId": "03309000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Essonne",
+		"domainNo": "1",
+		"geoStateId": "ES",
+		"geoCode": "ES",
+		"geoCodeId": "03309100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Hauts-de-Seine",
+		"domainNo": "1",
+		"geoStateId": "HS",
+		"geoCode": "HS",
+		"geoCodeId": "03309200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Seine-Saint-Denis",
+		"domainNo": "1",
+		"geoStateId": "SS",
+		"geoCode": "SS",
+		"geoCodeId": "03309300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Val-de-Marne",
+		"domainNo": "1",
+		"geoStateId": "VM",
+		"geoCode": "VM",
+		"geoCodeId": "03309400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Val-d'Oise",
+		"domainNo": "1",
+		"geoStateId": "VO",
+		"geoCode": "VO",
+		"geoCodeId": "03309500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "D.O.M.-T.O.M.",
+		"domainNo": "1",
+		"geoStateId": "DT",
+		"geoCode": "DT",
+		"geoCodeId": "03309600000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Guadeloupe",
+		"domainNo": "1",
+		"geoStateId": "GD",
+		"geoCode": "GD",
+		"geoCodeId": "03309700000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Martinique",
+		"domainNo": "1",
+		"geoStateId": "MA",
+		"geoCode": "MA",
+		"geoCodeId": "03309800000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Guyane",
+		"domainNo": "1",
+		"geoStateId": "GY",
+		"geoCode": "GY",
+		"geoCodeId": "03309900000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "R?union",
+		"domainNo": "1",
+		"geoStateId": "RU",
+		"geoCode": "RU",
+		"geoCodeId": "03310000000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Saint-Pierre-et-Miq.",
+		"domainNo": "1",
+		"geoStateId": "SP",
+		"geoCode": "SP",
+		"geoCodeId": "03310100000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Wallis-et-Futuna",
+		"domainNo": "1",
+		"geoStateId": "WA",
+		"geoCode": "WA",
+		"geoCodeId": "03310200000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Saint Barthelemy",
+		"domainNo": "1",
+		"geoStateId": "SB",
+		"geoCode": "SB",
+		"geoCodeId": "03310300000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Saint Martin",
+		"domainNo": "1",
+		"geoStateId": "SN",
+		"geoCode": "SN",
+		"geoCodeId": "03310400000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "Monaco",
+		"domainNo": "1",
+		"geoStateId": "MO",
+		"geoCode": "MO",
+		"geoCodeId": "03310500000",
+		"geoCountryId": "FR"
+	},
+	{
+		"geoName": "?tranger",
+		"domainNo": "1",
+		"geoStateId": "TN",
+		"geoCode": "TN",
+		"geoCodeId": "03310600000",
+		"geoCountryId": "FR"
+	}
+]
